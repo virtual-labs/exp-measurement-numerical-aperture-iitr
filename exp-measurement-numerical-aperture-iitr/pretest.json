@@ -1,0 +1,7 @@
+[{"question":"The Refractive index of air is unity. State True/False","answers":{"a":"True","b":"False"},"correctAnswer":"a"},
+{"question":"Numerical aperture is expressed as the","answers":{"a":"NA = cosθ\u2090;","b":"NA = sinθ\u2090","c":"NA = tanθ\u2090","d":"NA = secθ\u2090"},"correctAnswer":"b"},
+{"question":"For total internal reflection to occur, which condition must be satisfied?","answers":{"a":"N1 = N2","b":"N1 > N2","c":"N1 < N2","d":"N1 x N2 = 1"},"correctAnswer":"b"},
+{"question":"The refractive index of water will be","answers":{"a":1,"b":2.56,"c":1.54,"d":1.33},"correctAnswer":"d"},
+{"question":"The core refractive index should be lesser than the cladding refractive index for a coaxial cable. State True/False","answers":{"a":"True","b":"False"},"correctAnswer":"b"}]
+
+

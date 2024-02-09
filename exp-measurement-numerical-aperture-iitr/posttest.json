@@ -1,0 +1,7 @@
+[{"question":"The degree to which a substance bends light is known as the","answers":{"a":"Resolution","b":"Refractive index","c":"Numerical Aperture","d":"Magnification"},"correctAnswer":"b"},
+{"question":"The ____________ affects the light gathering capacity and the normalized frequency of the fiber.","answers":{"a":"Numerical aperture","b":"Amplitude modulation","c":"Responsivity","d":"Quantum efficiency"},"correctAnswer":"a"},
+{"question":"The numerical aperture for a step index fiber is sine angle of the __________","answers":{"a":"Efficient angle","b":"Aperture","c":"Acceptance angle","d":"Attenuation"},"correctAnswer":"c"},
+{"question":"Duirng the fiber drawing process, the fiber outer diameter is maintained constant to within _________","answers":{"a":"2%","b":"1%","c":"5%","d":"10%"},"correctAnswer":"b"},
+{"question":"Far field pattern measurements with regard to multimode fibers are dependent on the ___________ of the fiber.","answers":{"a":"Amplitude","b":"Frequency","c":"Diameter","d":"Length"},"correctAnswer":"d"}]
+
+
