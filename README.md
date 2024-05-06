@@ -8,7 +8,7 @@
 <b> Experiment|     <b> 5. Measurement of the Numerical Aperture
 <h5> About the Experiment : </h5> <br>
 
-To determine the Numerical Aperture (NA) of the optical fibers available.
+To determine the Numerical Aperture ( NA ) of the optical fibers available.
 
 <b>Name of Developer | <b> Prof. RS Anand
 :--|:--|
